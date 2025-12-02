@@ -101,8 +101,7 @@ A partir dessa interface você pode testar todos os endpoints sem necessidade de
 
 * Pertence a um projeto específico.
 
-<br>
-A seguir está uma visão geral dos endpoints disponíveis na aplicação, conforme exibido no Swagger:
+#### A seguir está uma visão geral dos endpoints disponíveis na aplicação, conforme exibido no Swagger:
 
 <p align="center">
   <img src="docs/swagger-overview.png" alt="Visão geral do Swagger">
