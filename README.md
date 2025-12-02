@@ -118,3 +118,14 @@ src/test/http/api-tests.http
 ```
 
 Esse arquivo contém requisições pré-prontas para testar toda a API diretamente pelo IntelliJ IDEA.
+
+---
+
+## Créditos
+
+Este projeto foi desenvolvido originalmente em dupla para a disciplina de Programação Orientada a Objetos (UniCEUB).
+
+**Coautores:**
+
+* **André Yuri — [@yurial3445](https://github.com/yurial3445)**
+* **João Gabriel — [@Joaooh](https://github.com/Joaooh)**
